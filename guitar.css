@@ -1,0 +1,93 @@
+*{
+  margin: 0 !important;
+  font-family: 'Mukta', sans-serif !important;
+}
+#logo{
+  width: 10%;
+}
+.navbar-brand{
+  color: #f24545 !important;
+}
+header{
+  background-color: rgb(17, 17, 17);
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  box-shadow: 1px 1px 1px;
+
+}
+#logo{
+  font-size:45px !important;
+  font-family: 'Dancing Script', cursive !important;
+  font-weight: 700 !important;
+}
+.navbar-nav{
+  margin-left: 0% !important; 
+}
+.nav-item{
+  margin-top: 0%;
+  margin-left: 12%   !important;
+  font-size: 20px !important; 
+}
+
+.nav-link{
+  color:white !important;
+  transition: 0.5s !important;
+  font-family: 'Mukta', sans-serif !important;
+}
+.nav-link:hover{
+  color: #f24545 !important;
+}
+img{
+ bottom: 10% !important;
+}
+hr{
+  color: rgb(255, 255, 255) !important;
+  width: 100%;
+  }
+main{
+  margin-top: 40px !important;
+}
+h5{
+  margin-top: 7% !important;
+  padding-left: 2% !important;
+}
+h3{
+  text-align: center;
+}
+img{
+  opacity: 9000;
+}
+.acoustics{
+  margin-top: 7% !important;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.card{
+   margin-left: 3.66% !important;
+   margin-top: 2.5% !important;
+   transition: 0.5s;
+}
+.linkparent{
+  color: transparent;
+}
+.price{
+  font-size: 35px !important;
+}
+h6{
+  font-size: 30px !important;
+}
+.card:hover{  
+  transform: scale(1.1);
+
+  box-shadow: rgba(0, 0, 0, 0.24) 1px 3px 8px;
+}
+#way{
+  margin-top: 10% !important;
+  margin-left: 2% !important;
+}  
+h3{
+  margin-top: 2% !important;
+}
